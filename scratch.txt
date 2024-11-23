@@ -1,0 +1,8 @@
+Crear variable: Name1
+Crear variable: Name2
+
+Bloque: Al presionar la bandera verde (Evento)
+Bloque: Establecer -Name1- como "Hola" (Variables)
+Bloque: Establecer -Name2- como " mundo!!!" (Variables)
+Bloque: Decir (linea 8) por 2 segundos (Vistas)
+    Bloque: Unir -Name1- -Name2- (Operadores)

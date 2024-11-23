@@ -1,0 +1,6 @@
+Algoritmo FelizCumpleaños
+    Definir nombre Como Caracter
+    Escribir "Cual es tu nombre?"
+    Leer nombre
+    Escribir "Feliz cumpleaos, ", nombre, "!"
+FinAlgoritmo

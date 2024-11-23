@@ -1,0 +1,11 @@
+Cuales son los lenguajes dinamicos de programacion?
+    Los lenguajes de programacion dinamicos son aquellos que no requieren declarar el tipo de
+    cada variable y funcion antes de usarlos. Algunos ejemplos de lenguajes dinamicos son:
+        Python
+        Perl
+        Lisp
+        Ruby
+        JavaScript
+    En los lenguajes dinamicos, el interprete asigna un tipo a las variables durante la
+    ejecucion, en funcion de su valor en ese momento. Esto permite a los desarrolladores
+    escribir codigo mas adaptable y conciso

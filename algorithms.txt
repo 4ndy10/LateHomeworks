@@ -1,0 +1,43 @@
+Desarrolla los siguientes 3 algoritmos:
+
+
+1. Colgar un cuadro
+    Tomar un clavo y un martillo
+    Colocar clavo en la pared donde queramos colgar el cuadro
+    Una vez elegido el lugar, y con cuidado, martillar el clavo a la pared hasta que quede encrustado
+    Guardar martillo y tomar el cuadro que queremos colgar
+    Ubicar el gancho de agarre del cuadro
+    Una vez ubicado, enganchar el cuadro con el clavo de la pared
+    Acomodar el cuadro hasta que quede al gusto personal (o que quede recto)
+
+2. Hacer palomitas de maíz
+(Se tomará en cuenta la bolsa de la marca ACT II)
+    Tomar bolsa de palomitas de maíz
+    Abrir la bolsa con cuidado
+    Sacar el paquete de palomitas de maíz
+    Abrir el microondas y colocar dentro de este el paquete de palomitas
+    Cerrar el microondas y escribir en el teclado numérico el tiempo necesario para que exploten
+    Esperar el tiempo que ingresamos, mientras tanto, tomar un bowl donde dejaremos las palomitas cuando salgan
+    Una vez termine el temporizador, abrir el microondas
+    Con cuidado, sacar el paquete de palomitas de maíz del microondas (está caliente)
+    Con cuidado, abrir el paquete de palomitas de maíz
+    Vertir las palomitas sobre el bowl que tomamos previamente
+    Preparar al gusto
+
+3. Llegar a casa.
+    Al salir de clases, dirigirse a la parada del transporte público en la Plaza Universidad
+    Esperar a que pase el transporte
+        Mientras esperas, tomar el dinero necesario para el transporte y la credencial de UABC para aplicar el descuento
+    Cuando llegue el transporte, acercarse a la puerta del mismo para subir
+    Una vez hayas logrado subir al transporte, darle el dinero al chofér y mostrar credencial de UABC
+    Al entregar el dinero y recibir el ticket, buscar un asiento disponible
+    Si hay asiento disponible:
+        Sentarse en alguno O en el asiento disponible
+    Si NO hay asiento disponible:
+        Caminar hasta un espacio vacío donde poder agarrarse de los barandales
+    Esperar a que el transporte recorra su ruta
+    Al acercarse a mi parada, acercarme yo a la puerta e indicarle al chofér donde es que me bajaré
+    Cuando llegue a mi parada, bajar del transporte y caminar hasta llegar a la puerta de mi privada
+    Tomar mis llaves y abrir la puerta peatonal
+    Cerrar la puerta con cuidado y caminar a casa
+    Al llegar a casa, abrir la puerta y al cerrarla, asegurarme de poner seguro

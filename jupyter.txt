@@ -1,0 +1,7 @@
+¿Qué es Jupyter Notebook?
+Jupyter Notebook es un entorno de desarrollo interactivo con el live code. Jupyter muestra
+una ejecución del código a través del navegador web. Si un desarrollador quiere visualizar
+un gráfico o una fórmula, escribe el comando deseado en la celda correspondiente. Este
+enfoque ahorra tiempo y ayuda a evitar errores. Jupyter Notebook se usa en aprendizaje
+automático al crear redes neuronales, por ejemplo. Los científicos de datos y programadores
+de Python lo usan también.
